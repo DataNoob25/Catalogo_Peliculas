@@ -9,12 +9,6 @@ def Viaje(d,m,n,paradas):
  c2=0 
 
 
-
-
-
-
- cn=4
-
  paradas.append(d)
  c1.append(paradas[0]-0)
  for i in range(len(paradas)-1):
