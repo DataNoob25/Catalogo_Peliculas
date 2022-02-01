@@ -32,13 +32,6 @@ class Pelicula:
     def nombre(self,nombre):
         self._nombre=nombre
 
-
-
-
-
-
-
-
 while opcion !=4:
      try:
        print("opciones: ")
