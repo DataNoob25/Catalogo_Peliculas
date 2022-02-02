@@ -6,6 +6,10 @@ def Viaje(d,m,n,paradas):
  nafta_kilometros=m
  Nparadas=n
  c1=[]
+ 
+ 
+ 
+ 
  paradas.append(d)
  c1.append(paradas[0]-0)
  for i in range(len(paradas)-1):
